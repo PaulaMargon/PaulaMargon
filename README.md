@@ -6,7 +6,7 @@ Welcome to my Github profile, my name is Paula, and I live in the Fortunate Isla
 
 I am a Web Application Design student, and I hope in the not too distant future to work in this field because I love and am passionate about discovering new things. However, at first, it can be overwhelming (And the world of programming is😄).
 
-In my training, I have mostly used `HTML5 & CSS3`, `Javascript, PHP, Java, and C#`, although I would like to learn more C# and explore `Laravel and VueJS`. I say this, although I have purchased several `Angular, React`, and `Python` courses along the way. I'm still settling in and exploring what I like the most.
+In my training, I have mostly used `HTML5 & CSS3`, `Javascript, PHP, Java, and C#`, although I would like to learn more C# and explore `Laravel`. I say this, although I have purchased several `Angular`, and `Python` courses along the way. I'm still settling in and exploring what I like the most.
 
 To finish and mention something about me... I am very fond of *videogames*, *technology*, and *reading*. I have studied criminology, a bit of psychology, and on my CMS like `Joomla` during these years.
 
@@ -17,9 +17,8 @@ Here, I'll show you some of the projects I'm working on to learn and practice!
 
 ## Social Media
 
-- 📌Youtube https://www.youtube.com/channel/UCr6gMFzur6WRMjHLvea579Q
 - 📌Twitter https://twitter.com/DashielTV
-- 📌Steam https://steamcommunity.com/id/dashiel/
+
 
 
 
